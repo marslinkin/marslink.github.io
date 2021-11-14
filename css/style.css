@@ -1243,8 +1243,8 @@ article .content .caption {
   height: 125px !important;
 }
 .sun .star {
-  width: 150px;
-  height: 150px;
+  width: 121px;
+  height: 121px;
   background: url("../images/sun.png") no-repeat;
   background-size: cover;
   border-radius: 250px;
@@ -1324,8 +1324,8 @@ article .content .caption {
   top: -11px;
 }
 .mars .planet {
-  width: 32px;
-  height: 32px;
+  width: 44px;
+  height: 44px;
   background-image: url("../images/mars.png");
   animation: anti-spin 30s infinite linear;
 }
@@ -1340,8 +1340,8 @@ article .content .caption {
   top: -64px;
 }
 .jupiter .planet {
-  width: 110px;
-  height: 110px;
+  width: 66px;
+  height: 66px;
   background-image: url("../images/jupiter.png");
   animation: anti-spin 50s infinite linear;
 }
